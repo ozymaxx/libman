@@ -1,0 +1,54 @@
+body {
+	color: white;
+	font-family: sans-serif;
+	font-size: 17px;
+	background-color: #0b61a4;
+}
+
+legend {
+	font-size: 17px;
+}
+
+fieldset {
+	border-color: white;
+	border-width: 1px;
+	border-style: solid;
+}
+
+table {
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+}
+
+table tr {
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+}
+
+table tr td{
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+}
+
+
+a {
+	color: white;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+p.warning {
+	background-color: red;
+	padding: 2px;
+}
+
+p.success {
+	background-color: green;
+	padding: 2px;
+}
